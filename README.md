@@ -27,4 +27,3 @@ total_control_finish.py : Raspberry Pi control motor ,and save feeding record ,a
 
 App : is interface main code 
 
-cloud :
