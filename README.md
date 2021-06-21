@@ -18,7 +18,7 @@ Step4-2 ： If Feed machineh will open  ,your feeding record will save in raspbe
 Step5 ： If the feed machine is power off ,we will use mobile power to continue execution.
 
 
-Official website：
+Official website：https://rita5112632.wixsite.com/website
 
 
 Program explanation：
